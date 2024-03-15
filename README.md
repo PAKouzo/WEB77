@@ -15,3 +15,9 @@
   delete - delete
 - filter -> trả về hàm.
 - find -> trả về object.
+
+MongoDB:
+
+- Username: PAKouzo
+- Password: XS9DXehkMXK1fjlM
+  const connectStr = 'mongodb+srv://ducftnb:<password>@cluster0.b15b4ne.mongodb.net/mindx-fullstack?retryWrites=true&w=majority&appName=Cluster0'
